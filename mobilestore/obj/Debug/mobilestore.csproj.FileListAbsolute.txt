@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\mobilestore\mobilestore\obj\Debug\mobilestore.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\mobilestore\mobilestore\obj\Debug\mobilestore.csproj.CoreCompileInputs.cache
